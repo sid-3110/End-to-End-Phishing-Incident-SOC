@@ -27,4 +27,5 @@ The project focuses on investigation, decision-making, and professional SOC docu
 ---
 
 ## ⚠️ Disclaimer
-This project is for educational and defensive security purposes only.
+This project is for educational and defensive security purposes only.\
+This is a end -to end phishing analysis project 
